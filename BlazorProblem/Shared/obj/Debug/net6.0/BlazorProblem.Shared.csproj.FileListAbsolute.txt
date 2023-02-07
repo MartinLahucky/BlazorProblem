@@ -1,0 +1,12 @@
+/Users/martin/Projects/BlazorProblem/BlazorProblem/Shared/bin/Debug/net6.0/BlazorProblem.Shared.deps.json
+/Users/martin/Projects/BlazorProblem/BlazorProblem/Shared/bin/Debug/net6.0/BlazorProblem.Shared.dll
+/Users/martin/Projects/BlazorProblem/BlazorProblem/Shared/bin/Debug/net6.0/BlazorProblem.Shared.pdb
+/Users/martin/Projects/BlazorProblem/BlazorProblem/Shared/obj/Debug/net6.0/BlazorProblem.Shared.csproj.AssemblyReference.cache
+/Users/martin/Projects/BlazorProblem/BlazorProblem/Shared/obj/Debug/net6.0/BlazorProblem.Shared.GeneratedMSBuildEditorConfig.editorconfig
+/Users/martin/Projects/BlazorProblem/BlazorProblem/Shared/obj/Debug/net6.0/BlazorProblem.Shared.AssemblyInfoInputs.cache
+/Users/martin/Projects/BlazorProblem/BlazorProblem/Shared/obj/Debug/net6.0/BlazorProblem.Shared.AssemblyInfo.cs
+/Users/martin/Projects/BlazorProblem/BlazorProblem/Shared/obj/Debug/net6.0/BlazorProblem.Shared.csproj.CoreCompileInputs.cache
+/Users/martin/Projects/BlazorProblem/BlazorProblem/Shared/obj/Debug/net6.0/BlazorProblem.Shared.dll
+/Users/martin/Projects/BlazorProblem/BlazorProblem/Shared/obj/Debug/net6.0/refint/BlazorProblem.Shared.dll
+/Users/martin/Projects/BlazorProblem/BlazorProblem/Shared/obj/Debug/net6.0/BlazorProblem.Shared.pdb
+/Users/martin/Projects/BlazorProblem/BlazorProblem/Shared/obj/Debug/net6.0/ref/BlazorProblem.Shared.dll
